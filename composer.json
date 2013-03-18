@@ -43,7 +43,7 @@
             "CodeSniffer/Standards/PSR1/Sniffs/",
             "CodeSniffer/Standards/PSR2/Sniffs/",
             "CodeSniffer/Standards/Squiz/Sniffs/",
-            "CodeSniffer/Standards/Zend/Sniffs/"
+            "CodeSniffer/Standards/Zend/Sniffs/",
             "CodeSniffer/Standards/CodeIgniter/Sniffs/"
         ]
     },
