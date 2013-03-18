@@ -1,6 +1,6 @@
 {
-    "name": "squizlabs/php_codesniffer",
-    "description": "PHP_CodeSniffer tokenises PHP, JavaScript and CSS files and detects violations of a defined set of coding standards.",
+    "name": "isislabs/php_codesniffer_codeigniter",
+    "description": "PHP_CodeSniffer tokenises PHP, JavaScript and CSS files and detects violations of a defined set of coding standards. Includes CodeIgniter coding standards.",
     "type": "library",
     "keywords": [
         "phpcs",
@@ -16,7 +16,7 @@
     ],
     "support": {
         "issues": "http://pear.php.net/bugs/search.php?cmd=display&package_name%5B%5D=PHP_CodeSniffer",
-        "source": "https://github.com/squizlabs/PHP_CodeSniffer"
+        "source": "https://github.com/isislabs/PHP_CodeSniffer"
     },
     "autoload": {
         "classmap": [
@@ -44,6 +44,7 @@
             "CodeSniffer/Standards/PSR2/Sniffs/",
             "CodeSniffer/Standards/Squiz/Sniffs/",
             "CodeSniffer/Standards/Zend/Sniffs/"
+            "CodeSniffer/Standards/CodeIgniter/Sniffs/"
         ]
     },
     "suggests": {
